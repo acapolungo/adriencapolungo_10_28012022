@@ -8,7 +8,7 @@ Vous êtes employé depuis 5 ans chez Dev4U, une entreprise de services du numé
     une dédiée au Web, qui comprend 8 personnes. 
 
 Documentation des attentes du clients :
-![Documentation du projet](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf)
+![Documentation du projet](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Réunion+Learn@Home.pdf)
 
 Livrables
     Les diagrammes de cas d’usage.
