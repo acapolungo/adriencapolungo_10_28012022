@@ -12,11 +12,11 @@ En tant que chef de projet j'ai pu définir les besoins à partir des documents 
 J'ai pu créé une documentation sur GitHub et un Wiki contenant pour chacune :
 l'objectif de la page, les composants essentiels qui doivent être développés par un diagramme, des user stories qui décomposent simplement et avec précisions les fonctionnalités de ces pages.
 
-J'ai également réalisé avec Figma une première ébauche d'une maquette collaborative.
+J'ai également réalisé avec Figma une première ébauche d'une maquette.
 
 Comme demandé j'ai complété la colonne ”ANALYZE” avec les principales tâches à réaliser sur le KANBAN.
 
-Documentation :
+### Documentation :
 
 [Connexion](https://github.com/acapolungo/adriencapolungo_10_28012022/wiki/1_La-page-de-connexion)
 
