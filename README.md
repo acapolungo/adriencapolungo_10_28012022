@@ -17,7 +17,7 @@ Livrables
     Le tableau Kanban (Notion, Trello, or GitHub).
 
 ### Maquette réalisée sur figma :
-![Maquette du projet](https://www.figma.com/file/BjxFG9KC2XXp6HH26GoRf4/Learn%40home?node-id=0%3A1)
+[Maquette du projet](https://www.figma.com/file/BjxFG9KC2XXp6HH26GoRf4/Learn%40home?node-id=0%3A1)
 
 ### Diagrammes de cas d'usages (réalisés sur illustrator) & user stories :
 ![Wiki du projet](https://github.com/acapolungo/adriencapolungo_10_28012022/wiki)
