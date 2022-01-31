@@ -8,7 +8,7 @@ Vous êtes employé depuis 5 ans chez Dev4U, une entreprise de services du numé
     une dédiée au Web, qui comprend 8 personnes. 
 
 Documentation des attentes du clients :
-![Documentation du projet](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf)
+![Documentation du projet](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn@Home.pdf)
 
 Livrables
     Les diagrammes de cas d’usage.
@@ -16,11 +16,11 @@ Livrables
     Les maquettes du site.
     Le tableau Kanban (Notion, Trello, or GitHub).
 
-Maquette réalisée sur figma :
-![Maquette du projet](https://www.figma.com/file/BjxFG9KC2XXp6HH26GoRf4/Learn%40home)
+### Maquette réalisée sur figma :
+![Maquette du projet](https://www.figma.com/file/BjxFG9KC2XXp6HH26GoRf4/Learn@home)
 
-Diagrammes de cas d'usages au complet :
-![Diagrammes du projet](https://github.com/acapolungo/adriencapolungo_10_28012022/tree/main/images)
+### Diagrammes de cas d'usages (réalisés sur illustrator) & user stories :
+![Wiki du projet](https://github.com/acapolungo/adriencapolungo_10_28012022/wiki)
 
-(Kanban) avec les prinpales tâches à réaliser.
+### (Kanban) avec les prinpales tâches à réaliser.
 ![Kanban du projet](https://github.com/acapolungo/adriencapolungo_10_28012022/projects/1)
