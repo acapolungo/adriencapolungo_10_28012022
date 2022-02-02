@@ -16,6 +16,10 @@ J'ai également réalisé avec Figma une première ébauche d'une maquette.
 
 Comme demandé j'ai complété la colonne ”ANALYZE” avec les principales tâches à réaliser sur le KANBAN.
 
+Diagramme de l'application :
+
+![alt text](https://github.com/acapolungo/adriencapolungo_10_28012022/blob/main/images/6_Diagramme%20UML.jpg)
+
 ### Documentation :
 
 [Connexion](https://github.com/acapolungo/adriencapolungo_10_28012022/wiki/1_La-page-de-connexion)
